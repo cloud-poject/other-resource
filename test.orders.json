@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6afb42f944a2012a36a2a53a"
+  },
+  "orderId": 4,
+  "foodItemsList": [
+    {
+      "_id": 1,
+      "itemName": "Paneer Butter Masala",
+      "itemDescription": "Delicious paneer cooked in rich creamy tomato gravy",
+      "veg": true,
+      "price": {
+        "$numberLong": "250"
+      },
+      "restaurantId": 1,
+      "quantity": 10
+    }
+  ],
+  "restaurant": {
+    "_id": 1,
+    "name": "The Food Palace"
+  },
+  "userDTO": {
+    "_id": 1,
+    "userName": "Mpnandan",
+    "userPassword": "pass123",
+    "address": "Dummy ad Banglore",
+    "city": "Bangalore"
+  },
+  "_class": "com.smartprocess.order.entity.Order"
+},
+{
+  "_id": {
+    "$oid": "6afbf68b44a2012a36a2a53d"
+  },
+  "orderId": 7,
+  "foodItemsList": [
+    {
+      "_id": 2,
+      "itemName": "Vegetable Biryani",
+      "itemDescription": "DeliciousVegetable Biryani in rich creamy tomato gravy",
+      "veg": true,
+      "price": {
+        "$numberLong": "300"
+      },
+      "restaurantId": 1,
+      "quantity": 20
+    }
+  ],
+  "restaurant": {
+    "_id": 1,
+    "name": "The Food Palace",
+    "address": "MG Road",
+    "city": "Bangalore",
+    "restaurantDescription": "Best South Indian Restaurant"
+  },
+  "userDTO": {
+    "_id": 1,
+    "userName": "Mpnandan",
+    "userPassword": "pass123",
+    "address": "Dummy ad Banglore",
+    "city": "Bangalore"
+  },
+  "_class": "com.smartprocess.order.entity.Order"
+},
+{
+  "_id": {
+    "$oid": "6afbf73144a2012a36a2a53e"
+  },
+  "orderId": 8,
+  "foodItemsList": [
+    {
+      "_id": 2,
+      "itemName": "Vegetable Biryani",
+      "itemDescription": "DeliciousVegetable Biryani in rich creamy tomato gravy",
+      "veg": true,
+      "price": {
+        "$numberLong": "300"
+      },
+      "restaurantId": 1,
+      "quantity": 15
+    },
+    {
+      "_id": 1,
+      "itemName": "Paneer Butter Masala",
+      "itemDescription": "Delicious paneer cooked in rich creamy tomato gravy",
+      "veg": true,
+      "price": {
+        "$numberLong": "250"
+      },
+      "restaurantId": 1,
+      "quantity": 9
+    }
+  ],
+  "restaurant": {
+    "_id": 1,
+    "name": "The Food Palace",
+    "address": "MG Road",
+    "city": "Bangalore",
+    "restaurantDescription": "Best South Indian Restaurant"
+  },
+  "userDTO": {
+    "_id": 1,
+    "userName": "Mpnandan",
+    "userPassword": "pass123",
+    "address": "Dummy ad Banglore",
+    "city": "Bangalore"
+  },
+  "_class": "com.smartprocess.order.entity.Order"
+}]

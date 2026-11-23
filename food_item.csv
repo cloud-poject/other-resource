@@ -1,0 +1,4 @@
+"id";"is_veg";"item_description";"item_name";"price";"quantity";"restaurant_id"
+1;"1";"Delicious paneer cooked in rich creamy tomato gravy";"Paneer Butter Masala";250;10;1
+2;"1";"DeliciousVegetable Biryani in rich creamy tomato gravy";"Vegetable Biryani";300;20;1
+3;"1";"DeliciousVegetable Biryani in rich creamy tomato gravy";"Vegetable Biryani";300;20;2
